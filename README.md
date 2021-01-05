@@ -23,15 +23,18 @@ Password : Abm
 ```
 # Avaiable
 ```
-- `Pakistan,Bangladesh,India,Indonisia,Malaysia,Usa,Target,Choice Password,Unfriend Mission.`
-- `All is one Tools`
-- `Fast Cloning`
+Pakistan,Bangladesh,India,Indonisia,Malaysia,Usa,Target,Choice Password,Unfriend Mission.
+All is one Tools
+Fast Cloning
 ```
-
-
-
-
-
+# Terminal
+```
+(01) Termux
+(02) Kali linux
+(03) Parrot os
+(04) Red hat
+(05) Ubuntu
+```
 > I am Not Responsible for the Misuse of this Tool !!
 
 ![PicsArt_09-02-08.50.41.jpg](https://user-images.githubusercontent.com/52023076/92006319-6db7df00-ecf9-11ea-9041-52b81c45b180.jpg)
