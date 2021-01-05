@@ -11,7 +11,8 @@
 ```
 apt update && apt upgrade
 apt install git -y
-apt install python2 -y
+pkg install python2 -y
+rm -rf Seclist
 git clone https://github.com/Tech-abm/Seclist
 cd Seclist
 python2 Abm-hacker.py
