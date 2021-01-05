@@ -6,29 +6,28 @@
 
 ![Screenshot_20200827-143208](https://user-images.githubusercontent.com/52023076/91424121-3edbcd80-e80e-11ea-9059-96c6781c1d9d.png)
 
-### Seclist Installation 💯
+# Seclist Installation 💯
 
-- `pkg update`
+```
+apt update && apt upgrade
+apt install git -y
+apt install python2 -y
+git clone https://github.com/Tech-abm/Seclist
+cd Seclist
+python2 Abm-hacker.py
+```
+# Tools User and Pass
+```
+Username : Abm
+Password : Abm
+```
+# Avaiable
+```
+- `Pakistan,Bangladesh,India,Indonisia,Malaysia,Usa,Target,Choice Password,Unfriend Mission.`
+- `All is one Tools`
+- `Fast Cloning`
+```
 
-- `pkg upgrade`
-
-- `pkg install git`
-
-- `pkg install python2`
-
-- `git clone https://github.com/Tech-abm/Seclist`
-
-- `cd Seclist`
-
-- `pip2 install mechanize`
-
-- `pip2 install requests`
-
-- `python2 Abm-hacker.py`
-
-- `Username : Abm`
-
-- `password : Abm`
 
 
 
